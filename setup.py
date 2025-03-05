@@ -5,9 +5,9 @@ with open('README.md', 'r', encoding='utf-8') as f:
     long_description = f.read()     
    
 
-__version__ = "0.0.4"
+__version__ = "0.0.3"
 REPO_NAME = "MongoDB-PyPI"
-PKG_NAME= "MongoDB-PyPI" # By this name, package will be displayed on PyPI
+PKG_NAME= "mongodb_pypi" # By this name, package will be displayed on PyPI
 AUTHOR_USER_NAME = "Ujjwal Kumar"
 AUTHOR_EMAIL = "batman.c137@gmail.com"
 
