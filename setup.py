@@ -8,7 +8,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
 __version__ = "0.0.1"
 REPO_NAME = "MongoDB-PyPI"
 PKG_NAME= "mongodb_pypi" # By this name, package will be displayed on PyPI
-AUTHOR_USER_NAME = "Ujjwal Kumar"
+AUTHOR_USER_NAME = "ujj-kum"
 AUTHOR_EMAIL = "batman.c137@gmail.com"
 
 setup(
